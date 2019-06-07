@@ -6,7 +6,7 @@
 To run the project locally you should run the commands above:
 
 ```
-  $ cd fronted
+  $ cd frontend
   $ yarn install
   $ yarn start
 ```
